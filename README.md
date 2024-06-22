@@ -26,7 +26,7 @@
 
 
 ### DashBoard 
-      click here >>>>>
+  click here >>>>>
 
 ### Key Insights
   - Vehicles manufactured in Japan, South Korea, Germany and United State are sold mostly.
