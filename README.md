@@ -19,9 +19,10 @@
 ### Data Cleaning/Preprocessing
   - Removed Missing values from the variable ‘Levy’.
   - Variables with ‘0’ as a data value which doesn’t have a logical meaning remove in Engine volume & Price.
+  - Remove the unnecessary string terms from Mileage and Engine volume variables.
   - Add new Columns:
-      - Manufacturer categorised according to Man_country.
-      - Mileage = 0 and otherwise into Condition as Brand new or Used.
+      - Manufacturer categorised according to Manifacture_country.
+      - Categorized the Condition according to the Mileage variable.(Mileage = 0 Brand new and otherwise into Used)
 
 
 
