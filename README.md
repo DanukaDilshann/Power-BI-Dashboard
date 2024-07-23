@@ -33,6 +33,6 @@
   - Vehicles manufactured in Japan, South Korea, Germany and United State are sold mostly.
   - Over 95% of the vehicle sold are second-hand and manufactured within 2006 to 2020 .
   - Front Wheel vehicles have more demand.
-  - Selected 4 manufacturing countries have 32 manufacturing companies and almost 700 vehicle models from them were sold.
+  - Selected 4 manufacturing countries have 33 manufacturing companies and almost 695 vehicle models from them were sold.
   - High demand for Black or White, Automatic gear vehicles with less than 1M mileage.
   - Leathered interior was preferred more.
