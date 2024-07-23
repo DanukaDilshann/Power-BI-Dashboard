@@ -2,18 +2,12 @@
 
 
 ### Project Overview
-
-
-
-
-### Data Source
-
-
+The objective of this project is to analyze customer car preferences based on the company's sales history. By leveraging historical sales data, we aim to identify trends, patterns, and insights that can help the company make informed decisions about inventory management, marketing strategies, and customer segmentation.
 
 
 ### Tools
   - Python - Data cleaning
-  - Power BI-creating Dashboard
+  - Power BI- Creating Dashboard
 
 
 ### Data Cleaning/Preprocessing
